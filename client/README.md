@@ -1,8 +1,3 @@
-### SCHEDULERAPP
-## Descripcion
-Web application to manage and schedule publications on different social networks
-
-## Client
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
