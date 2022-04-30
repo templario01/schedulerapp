@@ -2,6 +2,9 @@
 ## Descripcion
 Web application to manage and schedule publications on different social networks
 
+## Design
+https://www.figma.com/file/5vfa54k17zIXgbCaSjKbrr/Task-Management?node-id=2%3A2
+
 ## Client
 ### Getting Started with Create React App
 
