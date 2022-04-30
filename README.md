@@ -3,9 +3,9 @@
 Web application to manage and schedule publications on different social networks
 
 ## Contributors
-- [bastian - design](https://www.linkedin.com/in/sebasti%C3%A1n-abel-carita-posadas-99a1ab207/)
-- [aanglesp - frontend](https://www.linkedin.com/in/aanglesp/)
-- [zlach - backend | frontend](https://www.linkedin.com/in/victorbenavente/)
+- [bastian](https://www.linkedin.com/in/sebasti%C3%A1n-abel-carita-posadas-99a1ab207/) - design
+- [aanglesp](https://www.linkedin.com/in/aanglesp/) - frontend
+- [zlach](https://www.linkedin.com/in/victorbenavente/) - backend | frontend
 
 ## Design
 https://www.figma.com/file/5vfa54k17zIXgbCaSjKbrr/Task-Management?node-id=2%3A2
