@@ -2,6 +2,14 @@
 ## Descripcion
 Web application to manage and schedule publications on different social networks
 
+## Contributors
+- [bastian](https://www.linkedin.com/in/sebasti%C3%A1n-abel-carita-posadas-99a1ab207/) - design
+- [aanglesp](https://www.linkedin.com/in/aanglesp/) - frontend
+- [zlach](https://www.linkedin.com/in/victorbenavente/) - backend | frontend
+
+## Design
+https://www.figma.com/file/5vfa54k17zIXgbCaSjKbrr/Task-Management?node-id=2%3A2
+
 ## Client
 ### Getting Started with Create React App
 
@@ -44,3 +52,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Server
+### Using Express
